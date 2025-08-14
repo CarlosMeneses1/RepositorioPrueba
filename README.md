@@ -10,6 +10,7 @@ Una actualizacion mas, de nuevo desde GitHub
 
 Cambios desde mi rama local: developer01
 
+```mermaid
 gitGraph
     commit
     commit
@@ -21,3 +22,4 @@ gitGraph
     merge develop
     commit
     commit
+```
